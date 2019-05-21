@@ -13,4 +13,4 @@ You can play with the sampled Ping Pong sounds within the frame of a sequencer o
 
 View the website here 👇
 
-# https://fifixzhang.github.io/
+# https://fifixzhang.github.io/pingpongmachine
